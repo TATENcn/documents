@@ -1,4 +1,4 @@
-# TATEN Team
+# TATEN Studio
 
 愿景：构建一个 AI 深度集成的操作系统。
 
